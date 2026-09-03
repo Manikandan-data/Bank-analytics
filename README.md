@@ -8,7 +8,8 @@ A data analytics project using MySQL, Python, and Tableau to analyze banking dat
 - Python
 - Pandas
 - Tableau
-
+- Matplotlib
+  
 ## SQL Analysis
 
 This project includes SQL queries covering:
