@@ -38,3 +38,8 @@ The project contains 30 selected SQL queries demonstrating different SQL concept
 ## Project Goal
 
 To analyze banking data, identify useful patterns, and create data-driven insights for business analysis.
+## 📊 Tableau Dashboard
+
+View the interactive Bank Analytics Dashboard here:
+
+[View Bank Analytics Dashboard](https://public.tableau.com/views/BankAnalyticsDashboard_17884090455500/BankAnalyticsDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
