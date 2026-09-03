@@ -43,7 +43,7 @@ To analyze banking data, identify useful patterns, and create data-driven insigh
 
 View the interactive Bank Analytics Dashboard here:
 
-[View Bank Analytics Dashboard](https://public.tableau.com/views/BankAnalyticsDashboard_17884090455500/BankAnalyticsDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Bank Analytics Dashboard](https://public.tableau.com/views/BankAnalyticsDashboard_17884360500900/BankAnalyticsDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🐍 Python Data Analysis
 
